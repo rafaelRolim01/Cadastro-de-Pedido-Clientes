@@ -1,0 +1,15 @@
+C:\CursoC#\Udemy\OrderProduct\OrderProduct\OrderProduct\bin\Debug\net6.0\OrderProduct.exe
+C:\CursoC#\Udemy\OrderProduct\OrderProduct\OrderProduct\bin\Debug\net6.0\OrderProduct.deps.json
+C:\CursoC#\Udemy\OrderProduct\OrderProduct\OrderProduct\bin\Debug\net6.0\OrderProduct.runtimeconfig.json
+C:\CursoC#\Udemy\OrderProduct\OrderProduct\OrderProduct\bin\Debug\net6.0\OrderProduct.dll
+C:\CursoC#\Udemy\OrderProduct\OrderProduct\OrderProduct\bin\Debug\net6.0\ref\OrderProduct.dll
+C:\CursoC#\Udemy\OrderProduct\OrderProduct\OrderProduct\bin\Debug\net6.0\OrderProduct.pdb
+C:\CursoC#\Udemy\OrderProduct\OrderProduct\OrderProduct\obj\Debug\net6.0\OrderProduct.csproj.AssemblyReference.cache
+C:\CursoC#\Udemy\OrderProduct\OrderProduct\OrderProduct\obj\Debug\net6.0\OrderProduct.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoC#\Udemy\OrderProduct\OrderProduct\OrderProduct\obj\Debug\net6.0\OrderProduct.AssemblyInfoInputs.cache
+C:\CursoC#\Udemy\OrderProduct\OrderProduct\OrderProduct\obj\Debug\net6.0\OrderProduct.AssemblyInfo.cs
+C:\CursoC#\Udemy\OrderProduct\OrderProduct\OrderProduct\obj\Debug\net6.0\OrderProduct.csproj.CoreCompileInputs.cache
+C:\CursoC#\Udemy\OrderProduct\OrderProduct\OrderProduct\obj\Debug\net6.0\OrderProduct.dll
+C:\CursoC#\Udemy\OrderProduct\OrderProduct\OrderProduct\obj\Debug\net6.0\ref\OrderProduct.dll
+C:\CursoC#\Udemy\OrderProduct\OrderProduct\OrderProduct\obj\Debug\net6.0\OrderProduct.pdb
+C:\CursoC#\Udemy\OrderProduct\OrderProduct\OrderProduct\obj\Debug\net6.0\OrderProduct.genruntimeconfig.cache
